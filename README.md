@@ -2,7 +2,7 @@
 
 This project is a simulation of a micromouse robot. The goal is to find the exit of a maze. The robot is autonom and go through the maze by itself.
 
-![Maze](https://github.com/TanguyCavagna/Micromouse/img/maze.png)
+![Maze](https://github.com/TanguyCavagna/Micromouse/blob/master/img/maze.png)
 
 <hr>
 
